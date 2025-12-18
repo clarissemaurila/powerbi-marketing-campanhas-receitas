@@ -60,7 +60,10 @@ Essa abordagem simula um **controle de acesso lógico**, comum em dashboards cor
 - Power BI Desktop
 - Modelagem de dados
 - Medidas DAX
+- Parâmetros e controle de navegação
 - Visualização orientada a negócio
+- Figma
+> 🎨 O layout visual e o background do relatório foram desenvolvidos no Figma, com foco em identidade visual, usabilidade e melhor experiência do usuário.
 
 ---
 
